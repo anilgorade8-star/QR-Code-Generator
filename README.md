@@ -1,3 +1,5 @@
+QR Code Generator
+
 # install dependencies  (npm install )       
 # run your QR generator ( node index.js )
 
